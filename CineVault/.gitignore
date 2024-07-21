@@ -21,5 +21,7 @@ node_modules
 *.sln
 *.sw?
 
-CineVault/env.js
+# Ignore environment configuration files
+.env
+
 

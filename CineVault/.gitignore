@@ -22,6 +22,6 @@ node_modules
 *.sw?
 
 # Ignore environment configuration files
-.env
+env.js
 
 

@@ -1,7 +1,7 @@
-#My Project
-This projects contains various projects showcasing various technologies.
+#Project
+This repo contains various projects showcasing various technologies.
 
-##Getting Setting
+##Getting Started
 To get started with the projects, follow these steps:
 1. Clone this repository.
 2. Install dependencies.
@@ -11,3 +11,7 @@ To get started with the projects, follow these steps:
 - HTML
 - CSS
 - Javascript
+- React
+- Node.js
+- Express.js
+- MongoDB
